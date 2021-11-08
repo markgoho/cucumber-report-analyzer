@@ -1,2 +1,1 @@
-# cucumber-report-analyzer
-Analyzes cucumber runtime reports
+This is a package
