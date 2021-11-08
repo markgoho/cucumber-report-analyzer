@@ -1,0 +1,31 @@
+{
+  "name": "cucumber-report-analyzer",
+  "version": "0.0.1",
+  "description": "Cucumber report analyzer",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "rm ./dist && tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markgoho/cucumber-report-analyzer.git"
+  },
+  "author": "Mark Goho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markgoho/cucumber-report-analyzer/issues"
+  },
+  "homepage": "https://github.com/markgoho/cucumber-report-analyzer#readme",
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "jest": "^27.3.1",
+    "ts-jest": "^27.0.7",
+    "typescript": "^4.4.4"
+  },
+  "files": [
+    "dist",
+    "LICENSE",
+    "README.md"
+  ]
+}
