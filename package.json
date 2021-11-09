@@ -4,7 +4,7 @@
   "description": "Cucumber report analyzer",
   "main": "./dist/index.js",
   "scripts": {
-    "build": "rm ./dist && tsc",
+    "build": "rm -rf dist && tsc",
     "test": "jest"
   },
   "repository": {
