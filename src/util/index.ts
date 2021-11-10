@@ -5,3 +5,4 @@ export * from './calculateFeatureRuntime';
 export * from './calculateScenarioRuntime';
 export * from './elementType';
 export * from './nanosecondsToSeconds';
+export * from './reportToRuntime';
