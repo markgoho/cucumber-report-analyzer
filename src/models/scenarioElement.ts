@@ -1,10 +1,11 @@
-import { BaseStep } from "./baseStep";
-import { ElementStep } from "./elementStep";
+import { BaseStep } from './baseStep';
+import { Comment } from './comment';
+import { ElementStep } from './elementStep';
 
 export interface ScenarioElement {
   id: string;
   keyword: string;
-  type: "scenario";
+  type: 'scenario';
   before?: BaseStep[];
   after: BaseStep[];
   name: string;
@@ -12,9 +13,4 @@ export interface ScenarioElement {
   line: number;
   steps?: ElementStep[];
   comments?: Comment[];
-}
-
-interface Comment {
-  value: string;
-  line: number;
 }
