@@ -34,7 +34,5 @@
     "LICENSE",
     "README.md"
   ],
-  "dependencies": {
-    "split-config-generator": "^1.1.0"
-  }
+  "dependencies": {}
 }
