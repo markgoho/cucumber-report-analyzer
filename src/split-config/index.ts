@@ -1,1 +1,1 @@
-export { createCucumberSplitConfig } from './cucumberSplitConfig';
+// export { createCucumberSplitConfig } from './cucumberSplitConfig';

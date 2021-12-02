@@ -1,19 +1,19 @@
-import {
-  createSplitConfig,
-  FileWithRuntime,
-  SplitConfig,
-} from 'split-config-generator';
+// import {
+//   createSplitConfig,
+//   FileWithRuntime,
+//   SplitConfig,
+// } from 'split-config-generator';
 
-import { CucumberFeature } from '../models';
-import { reportToRuntime } from '../util';
+// import { CucumberFeature } from '../models';
+// import { reportToRuntime } from '../util';
 
-export const createCucumberSplitConfig = (
-  features: CucumberFeature[],
-  groupCount?: number,
-): SplitConfig => {
-  const files: FileWithRuntime[] = reportToRuntime(features);
+// export const createCucumberSplitConfig = (
+//   features: CucumberFeature[],
+//   groupCount?: number,
+// ): SplitConfig => {
+//   const files: FileWithRuntime[] = reportToRuntime(features);
 
-  const splitConfig: SplitConfig = createSplitConfig(files, groupCount);
+//   const splitConfig: SplitConfig = createSplitConfig(files, groupCount);
 
-  return splitConfig;
-};
+//   return splitConfig;
+// };
