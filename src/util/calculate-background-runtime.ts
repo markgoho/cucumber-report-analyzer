@@ -1,6 +1,6 @@
 import { BackgroundElement } from '../models';
-import { calculateBaseStepsRuntime } from './calculateBaseStepsRuntime';
-import { calculateElementStepsRuntime } from './calculateElementStepsRuntime';
+import { calculateBaseStepsRuntime } from './calculate-base-steps-runtime';
+import { calculateElementStepsRuntime } from './calculate-element-steps-runtime';
 
 export const calculateBackgroundRuntime = (
   backgroundElement: BackgroundElement,

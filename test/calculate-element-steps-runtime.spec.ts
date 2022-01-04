@@ -7,6 +7,6 @@ describe('Calculating element steps runtime', () => {
       // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
       featureWithBackground.elements[0].steps!;
 
-    expect(calculateElementStepsRuntime(elementSteps)).toBe(182203);
+    expect(calculateElementStepsRuntime(elementSteps)).toBe(182_203);
   });
 });

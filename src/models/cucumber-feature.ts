@@ -1,5 +1,5 @@
-import { BackgroundElement } from "./backgroundElement";
-import { ScenarioElement } from "./scenarioElement";
+import { BackgroundElement } from "./background-element";
+import { ScenarioElement } from "./scenario-element";
 
 export interface CucumberFeature {
   uri: string; // file path

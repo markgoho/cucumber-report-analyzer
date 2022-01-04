@@ -14,7 +14,7 @@ export const backgroundElement: BackgroundElement = {
       },
       result: {
         status: 'passed',
-        duration: 15400,
+        duration: 15_400,
       },
     },
     {
@@ -24,7 +24,7 @@ export const backgroundElement: BackgroundElement = {
       },
       result: {
         status: 'passed',
-        duration: 10200,
+        duration: 10_200,
       },
     },
     {
@@ -34,7 +34,7 @@ export const backgroundElement: BackgroundElement = {
       },
       result: {
         status: 'passed',
-        duration: 42601,
+        duration: 42_601,
       },
     },
     {
@@ -53,7 +53,7 @@ export const backgroundElement: BackgroundElement = {
       },
       result: {
         status: 'passed',
-        duration: 28200,
+        duration: 28_200,
       },
     },
     {
@@ -62,7 +62,7 @@ export const backgroundElement: BackgroundElement = {
       },
       result: {
         status: 'passed',
-        duration: 7186230,
+        duration: 7_186_230,
       },
     },
     {
@@ -71,7 +71,7 @@ export const backgroundElement: BackgroundElement = {
       },
       result: {
         status: 'passed',
-        duration: 55401,
+        duration: 55_401,
       },
     },
   ],
@@ -85,7 +85,7 @@ export const backgroundElement: BackgroundElement = {
       },
       result: {
         status: 'passed',
-        duration: 169803,
+        duration: 169_803,
       },
       after: [
         {
@@ -94,7 +94,7 @@ export const backgroundElement: BackgroundElement = {
           },
           result: {
             status: 'passed',
-            duration: 12400,
+            duration: 12_400,
           },
         },
       ],

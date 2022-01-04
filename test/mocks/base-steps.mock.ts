@@ -8,7 +8,7 @@ export const mockBaseSteps: BaseStep[] = [
     },
     result: {
       status: 'passed',
-      duration: 12600,
+      duration: 12_600,
     },
   },
   {
@@ -28,7 +28,7 @@ export const mockBaseSteps: BaseStep[] = [
     },
     result: {
       status: 'passed',
-      duration: 146101,
+      duration: 146_101,
     },
   },
   {
@@ -38,7 +38,7 @@ export const mockBaseSteps: BaseStep[] = [
     },
     result: {
       status: 'passed',
-      duration: 11900,
+      duration: 11_900,
     },
   },
   {
@@ -47,7 +47,7 @@ export const mockBaseSteps: BaseStep[] = [
     },
     result: {
       status: 'passed',
-      duration: 21000,
+      duration: 21_000,
     },
   },
   {
@@ -56,7 +56,7 @@ export const mockBaseSteps: BaseStep[] = [
     },
     result: {
       status: 'passed',
-      duration: 20844150,
+      duration: 20_844_150,
     },
   },
   {
@@ -65,7 +65,7 @@ export const mockBaseSteps: BaseStep[] = [
     },
     result: {
       status: 'passed',
-      duration: 57700,
+      duration: 57_700,
     },
   },
 ];

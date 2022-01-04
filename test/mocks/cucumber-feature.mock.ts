@@ -23,7 +23,7 @@ export const noBackgroundFeature: CucumberFeature = {
           },
           result: {
             status: 'passed',
-            duration: 12500,
+            duration: 12_500,
           },
         },
       ],
@@ -37,7 +37,7 @@ export const noBackgroundFeature: CucumberFeature = {
           },
           result: {
             status: 'passed',
-            duration: 142502,
+            duration: 142_502,
           },
           after: [
             {
@@ -47,7 +47,7 @@ export const noBackgroundFeature: CucumberFeature = {
               },
               result: {
                 status: 'passed',
-                duration: 11401,
+                duration: 11_401,
               },
             },
           ],
@@ -60,7 +60,7 @@ export const noBackgroundFeature: CucumberFeature = {
           },
           result: {
             status: 'passed',
-            duration: 43101,
+            duration: 43_101,
           },
         },
       ],
@@ -91,7 +91,7 @@ export const featureWithBackground: CucumberFeature = {
           },
           result: {
             status: 'passed',
-            duration: 15400,
+            duration: 15_400,
           },
         },
       ],
@@ -105,7 +105,7 @@ export const featureWithBackground: CucumberFeature = {
           },
           result: {
             status: 'passed',
-            duration: 169803,
+            duration: 169_803,
           },
           after: [
             {
@@ -115,7 +115,7 @@ export const featureWithBackground: CucumberFeature = {
               },
               result: {
                 status: 'passed',
-                duration: 12400,
+                duration: 12_400,
               },
             },
           ],
@@ -139,7 +139,7 @@ export const featureWithBackground: CucumberFeature = {
           },
           result: {
             status: 'passed',
-            duration: 1180982801,
+            duration: 1_180_982_801,
           },
           after: [
             {
@@ -149,7 +149,7 @@ export const featureWithBackground: CucumberFeature = {
               },
               result: {
                 status: 'passed',
-                duration: 15501,
+                duration: 15_501,
               },
             },
           ],
@@ -162,7 +162,7 @@ export const featureWithBackground: CucumberFeature = {
           },
           result: {
             status: 'passed',
-            duration: 31101,
+            duration: 31_101,
           },
         },
       ],

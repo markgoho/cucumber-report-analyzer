@@ -1,6 +1,6 @@
-import { BaseStep } from './baseStep';
+import { BaseStep } from './base-step';
 import { Comment } from './comment';
-import { ElementStep } from './elementStep';
+import { ElementStep } from './element-step';
 
 export interface ScenarioElement {
   id: string;

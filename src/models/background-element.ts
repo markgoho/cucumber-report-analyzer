@@ -1,5 +1,5 @@
-import { BaseStep } from "./baseStep";
-import { ElementStep } from "./elementStep";
+import { BaseStep } from "./base-step";
+import { ElementStep } from "./element-step";
 
 export interface BackgroundElement {
   keyword: "Background";

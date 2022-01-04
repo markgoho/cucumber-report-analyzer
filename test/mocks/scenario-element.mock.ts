@@ -15,7 +15,7 @@ export const scenarioElement: ScenarioElement = {
       },
       result: {
         status: 'passed',
-        duration: 12600,
+        duration: 12_600,
       },
     },
   ],
@@ -29,7 +29,7 @@ export const scenarioElement: ScenarioElement = {
       },
       result: {
         status: 'passed',
-        duration: 90840253,
+        duration: 90_840_253,
       },
       after: [
         {
@@ -38,7 +38,7 @@ export const scenarioElement: ScenarioElement = {
           },
           result: {
             status: 'passed',
-            duration: 14700,
+            duration: 14_700,
           },
         },
       ],
@@ -52,7 +52,7 @@ export const scenarioElement: ScenarioElement = {
       },
       result: {
         status: 'passed',
-        duration: 38701,
+        duration: 38_701,
       },
       after: [
         {
@@ -74,7 +74,7 @@ export const scenarioElement: ScenarioElement = {
       },
       result: {
         status: 'passed',
-        duration: 22401,
+        duration: 22_401,
       },
     },
   ],
@@ -97,7 +97,7 @@ export const scenarioElement2: ScenarioElement = {
       },
       result: {
         status: 'passed',
-        duration: 1180982801,
+        duration: 1_180_982_801,
       },
       after: [
         {
@@ -106,7 +106,7 @@ export const scenarioElement2: ScenarioElement = {
           },
           result: {
             status: 'passed',
-            duration: 15501,
+            duration: 15_501,
           },
         },
       ],
@@ -119,7 +119,7 @@ export const scenarioElement2: ScenarioElement = {
       },
       result: {
         status: 'passed',
-        duration: 31101,
+        duration: 31_101,
       },
     },
   ],
@@ -140,7 +140,7 @@ export const scenarioElement3: ScenarioElement = {
       },
       result: {
         status: 'passed',
-        duration: 12500,
+        duration: 12_500,
       },
     },
   ],
@@ -154,7 +154,7 @@ export const scenarioElement3: ScenarioElement = {
       },
       result: {
         status: 'passed',
-        duration: 142502,
+        duration: 142_502,
       },
       after: [
         {
@@ -163,7 +163,7 @@ export const scenarioElement3: ScenarioElement = {
           },
           result: {
             status: 'passed',
-            duration: 11401,
+            duration: 11_401,
           },
         },
       ],
@@ -176,7 +176,7 @@ export const scenarioElement3: ScenarioElement = {
       },
       result: {
         status: 'passed',
-        duration: 43101,
+        duration: 43_101,
       },
     },
   ],

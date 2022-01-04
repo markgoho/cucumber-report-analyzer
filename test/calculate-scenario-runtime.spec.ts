@@ -3,13 +3,13 @@ import { calculateScenarioRuntime } from '../src';
 
 describe('Calculating scenario step runtime', () => {
   it('should calculate the runtime of a set of element steps', () => {
-    expect(calculateScenarioRuntime(scenarioElement)).toBe(90934055);
+    expect(calculateScenarioRuntime(scenarioElement)).toBe(90_934_055);
   });
   it('should calculate the runtime of a set of element steps', () => {
-    expect(calculateScenarioRuntime(scenarioElement2)).toBe(1181029403);
+    expect(calculateScenarioRuntime(scenarioElement2)).toBe(1_181_029_403);
   });
 
   it('should calculate a third runtime', () => {
-    expect(calculateScenarioRuntime(scenarioElement3)).toBe(209504);
+    expect(calculateScenarioRuntime(scenarioElement3)).toBe(209_504);
   });
 });

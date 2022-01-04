@@ -24,7 +24,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 17000,
+              duration: 17_000,
             },
           },
           {
@@ -44,7 +44,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 49800,
+              duration: 49_800,
             },
           },
           {
@@ -63,7 +63,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 28900,
+              duration: 28_900,
             },
           },
           {
@@ -72,7 +72,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 7966608,
+              duration: 7_966_608,
             },
           },
           {
@@ -81,7 +81,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 58000,
+              duration: 58_000,
             },
           },
         ],
@@ -95,7 +95,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 35128578,
+              duration: 35_128_578,
             },
             after: [
               {
@@ -105,7 +105,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 20400,
+                  duration: 20_400,
                 },
               },
             ],
@@ -119,7 +119,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 94402,
+              duration: 94_402,
             },
             after: [
               {
@@ -144,7 +144,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 98401,
+              duration: 98_401,
             },
             after: [
               {
@@ -168,7 +168,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 1393568762,
+              duration: 1_393_568_762,
             },
             after: [
               {
@@ -178,7 +178,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 15500,
+                  duration: 15_500,
                 },
               },
             ],
@@ -192,7 +192,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 23362518,
+              duration: 23_362_518,
             },
             after: [
               {
@@ -202,7 +202,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 15601,
+                  duration: 15_601,
                 },
               },
             ],
@@ -216,7 +216,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 558610001,
+              duration: 558_610_001,
             },
             after: [
               {
@@ -226,7 +226,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 24500,
+                  duration: 24_500,
                 },
               },
             ],
@@ -240,7 +240,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 251523022,
+              duration: 251_523_022,
             },
             after: [
               {
@@ -250,7 +250,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 18900,
+                  duration: 18_900,
                 },
               },
             ],
@@ -265,7 +265,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 105452772532,
+              duration: 105_452_772_532,
             },
             after: [
               {
@@ -275,7 +275,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 32800,
+                  duration: 32_800,
                 },
               },
             ],
@@ -290,7 +290,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 88758187,
+              duration: 88_758_187,
             },
             after: [
               {
@@ -300,7 +300,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 19800,
+                  duration: 19_800,
                 },
               },
             ],
@@ -314,7 +314,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 5034895487,
+              duration: 5_034_895_487,
             },
             after: [
               {
@@ -324,7 +324,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 47001,
+                  duration: 47_001,
                 },
               },
             ],
@@ -338,7 +338,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 37307657,
+              duration: 37_307_657,
             },
             after: [
               {
@@ -348,7 +348,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 18601,
+                  duration: 18_601,
                 },
               },
             ],
@@ -362,7 +362,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 617925260,
+              duration: 617_925_260,
             },
             after: [
               {
@@ -372,7 +372,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 26900,
+                  duration: 26_900,
                 },
               },
             ],
@@ -386,7 +386,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 204487701,
+              duration: 204_487_701,
             },
             after: [
               {
@@ -396,7 +396,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 17000,
+                  duration: 17_000,
                 },
               },
             ],
@@ -410,7 +410,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 144997574,
+              duration: 144_997_574,
             },
             after: [
               {
@@ -420,7 +420,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 29000,
+                  duration: 29_000,
                 },
               },
             ],
@@ -434,7 +434,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 295358113,
+              duration: 295_358_113,
             },
             after: [
               {
@@ -444,7 +444,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 22300,
+                  duration: 22_300,
                 },
               },
             ],
@@ -458,7 +458,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 1250877403,
+              duration: 1_250_877_403,
             },
             after: [
               {
@@ -468,7 +468,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 18900,
+                  duration: 18_900,
                 },
               },
             ],
@@ -482,7 +482,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 201361663,
+              duration: 201_361_663,
             },
             after: [
               {
@@ -492,7 +492,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 24800,
+                  duration: 24_800,
                 },
               },
             ],
@@ -506,7 +506,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 46512869,
+              duration: 46_512_869,
             },
             after: [
               {
@@ -516,7 +516,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 23500,
+                  duration: 23_500,
                 },
               },
             ],
@@ -530,7 +530,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 188196902,
+              duration: 188_196_902,
             },
             after: [
               {
@@ -540,7 +540,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 25300,
+                  duration: 25_300,
                 },
               },
             ],
@@ -554,7 +554,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 88714485,
+              duration: 88_714_485,
             },
             after: [
               {
@@ -564,7 +564,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 18001,
+                  duration: 18_001,
                 },
               },
             ],
@@ -578,7 +578,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 323666460,
+              duration: 323_666_460,
             },
             after: [
               {
@@ -588,7 +588,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 32900,
+                  duration: 32_900,
                 },
               },
             ],
@@ -602,7 +602,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 873211,
+              duration: 873_211,
             },
             after: [
               {
@@ -612,7 +612,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 17600,
+                  duration: 17_600,
                 },
               },
             ],
@@ -626,7 +626,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 584067846,
+              duration: 584_067_846,
             },
             after: [
               {
@@ -636,7 +636,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 23601,
+                  duration: 23_601,
                 },
               },
             ],
@@ -650,7 +650,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 240726745,
+              duration: 240_726_745,
             },
             after: [
               {
@@ -660,7 +660,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 25601,
+                  duration: 25_601,
                 },
               },
             ],
@@ -675,7 +675,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 29666163,
+              duration: 29_666_163,
             },
             after: [
               {
@@ -685,7 +685,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 100401,
+                  duration: 100_401,
                 },
               },
             ],
@@ -699,7 +699,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 869455537,
+              duration: 869_455_537,
             },
             after: [
               {
@@ -709,7 +709,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 24400,
+                  duration: 24_400,
                 },
               },
             ],
@@ -724,7 +724,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 70099458,
+              duration: 70_099_458,
             },
             after: [
               {
@@ -734,7 +734,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 24300,
+                  duration: 24_300,
                 },
               },
             ],
@@ -749,7 +749,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 52319740,
+              duration: 52_319_740,
             },
             after: [
               {
@@ -759,7 +759,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 23700,
+                  duration: 23_700,
                 },
               },
             ],
@@ -773,7 +773,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 619998253,
+              duration: 619_998_253,
             },
             after: [
               {
@@ -783,7 +783,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 38701,
+                  duration: 38_701,
                 },
               },
             ],
@@ -797,7 +797,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 1001836379,
+              duration: 1_001_836_379,
             },
             after: [
               {
@@ -807,7 +807,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 21001,
+                  duration: 21_001,
                 },
               },
             ],
@@ -821,7 +821,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 457300661,
+              duration: 457_300_661,
             },
             after: [
               {
@@ -831,7 +831,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 23701,
+                  duration: 23_701,
                 },
               },
             ],
@@ -845,7 +845,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 124808154,
+              duration: 124_808_154,
             },
             after: [
               {
@@ -855,7 +855,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 25000,
+                  duration: 25_000,
                 },
               },
             ],
@@ -869,7 +869,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 806595891,
+              duration: 806_595_891,
             },
             after: [
               {
@@ -879,7 +879,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 24600,
+                  duration: 24_600,
                 },
               },
             ],
@@ -892,7 +892,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 34100,
+              duration: 34_100,
             },
           },
           {
@@ -901,7 +901,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 12642167,
+              duration: 12_642_167,
             },
           },
           {
@@ -911,7 +911,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 17000,
+              duration: 17_000,
             },
           },
           {
@@ -921,7 +921,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 10700,
+              duration: 10_700,
             },
           },
           {
@@ -931,7 +931,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 51366181,
+              duration: 51_366_181,
             },
           },
         ],
@@ -951,7 +951,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 14100,
+              duration: 14_100,
             },
           },
           {
@@ -971,7 +971,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 167102,
+              duration: 167_102,
             },
           },
           {
@@ -981,7 +981,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 12100,
+              duration: 12_100,
             },
           },
           {
@@ -990,7 +990,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 25101,
+              duration: 25_101,
             },
           },
           {
@@ -999,7 +999,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 17233829,
+              duration: 17_233_829,
             },
           },
           {
@@ -1008,7 +1008,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 63801,
+              duration: 63_801,
             },
           },
         ],
@@ -1022,7 +1022,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 26738555,
+              duration: 26_738_555,
             },
             after: [
               {
@@ -1032,7 +1032,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 15101,
+                  duration: 15_101,
                 },
               },
             ],
@@ -1046,7 +1046,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 97302,
+              duration: 97_302,
             },
             after: [
               {
@@ -1070,7 +1070,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 177781656,
+              duration: 177_781_656,
             },
             after: [
               {
@@ -1080,7 +1080,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 16200,
+                  duration: 16_200,
                 },
               },
             ],
@@ -1094,7 +1094,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 57962968,
+              duration: 57_962_968,
             },
             after: [
               {
@@ -1104,7 +1104,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 15700,
+                  duration: 15_700,
                 },
               },
             ],
@@ -1118,7 +1118,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 1025344390,
+              duration: 1_025_344_390,
             },
             after: [
               {
@@ -1128,7 +1128,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 17800,
+                  duration: 17_800,
                 },
               },
             ],
@@ -1142,7 +1142,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 98219402,
+              duration: 98_219_402,
             },
             after: [
               {
@@ -1152,7 +1152,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 17400,
+                  duration: 17_400,
                 },
               },
             ],
@@ -1166,7 +1166,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 121319808,
+              duration: 121_319_808,
             },
             after: [
               {
@@ -1176,7 +1176,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 20701,
+                  duration: 20_701,
                 },
               },
             ],
@@ -1190,7 +1190,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 223872668,
+              duration: 223_872_668,
             },
             after: [
               {
@@ -1200,7 +1200,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 23401,
+                  duration: 23_401,
                 },
               },
             ],
@@ -1214,7 +1214,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 357223434,
+              duration: 357_223_434,
             },
             after: [
               {
@@ -1224,7 +1224,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 24401,
+                  duration: 24_401,
                 },
               },
             ],
@@ -1238,7 +1238,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 121736814,
+              duration: 121_736_814,
             },
             after: [
               {
@@ -1248,7 +1248,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 23600,
+                  duration: 23_600,
                 },
               },
             ],
@@ -1261,7 +1261,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 26601,
+              duration: 26_601,
             },
           },
           {
@@ -1270,7 +1270,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 9508526,
+              duration: 9_508_526,
             },
           },
           {
@@ -1300,7 +1300,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 38362309,
+              duration: 38_362_309,
             },
           },
         ],
@@ -1320,7 +1320,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 14400,
+              duration: 14_400,
             },
           },
           {
@@ -1340,7 +1340,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 145901,
+              duration: 145_901,
             },
           },
           {
@@ -1350,7 +1350,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 11900,
+              duration: 11_900,
             },
           },
           {
@@ -1359,7 +1359,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 21801,
+              duration: 21_801,
             },
           },
           {
@@ -1368,7 +1368,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 17304029,
+              duration: 17_304_029,
             },
           },
           {
@@ -1377,7 +1377,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 52900,
+              duration: 52_900,
             },
           },
         ],
@@ -1391,7 +1391,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 26641953,
+              duration: 26_641_953,
             },
             after: [
               {
@@ -1401,7 +1401,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 14900,
+                  duration: 14_900,
                 },
               },
             ],
@@ -1415,7 +1415,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 93302,
+              duration: 93_302,
             },
             after: [
               {
@@ -1439,7 +1439,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 160307425,
+              duration: 160_307_425,
             },
             after: [
               {
@@ -1449,7 +1449,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 15100,
+                  duration: 15_100,
                 },
               },
             ],
@@ -1463,7 +1463,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 1036407637,
+              duration: 1_036_407_637,
             },
             after: [
               {
@@ -1473,7 +1473,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 16601,
+                  duration: 16_601,
                 },
               },
             ],
@@ -1487,7 +1487,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 86628848,
+              duration: 86_628_848,
             },
             after: [
               {
@@ -1497,7 +1497,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 15700,
+                  duration: 15_700,
                 },
               },
             ],
@@ -1511,7 +1511,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 60568903,
+              duration: 60_568_903,
             },
             after: [
               {
@@ -1521,7 +1521,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 24000,
+                  duration: 24_000,
                 },
               },
             ],
@@ -1535,7 +1535,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 220580323,
+              duration: 220_580_323,
             },
             after: [
               {
@@ -1545,7 +1545,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 22800,
+                  duration: 22_800,
                 },
               },
             ],
@@ -1559,7 +1559,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 407224397,
+              duration: 407_224_397,
             },
             after: [
               {
@@ -1569,7 +1569,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 24500,
+                  duration: 24_500,
                 },
               },
             ],
@@ -1582,7 +1582,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 24600,
+              duration: 24_600,
             },
           },
           {
@@ -1591,7 +1591,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 6741690,
+              duration: 6_741_690,
             },
           },
           {
@@ -1601,7 +1601,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 10700,
+              duration: 10_700,
             },
           },
           {
@@ -1621,7 +1621,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 40333634,
+              duration: 40_333_634,
             },
           },
         ],
@@ -1650,7 +1650,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 12601,
+              duration: 12_601,
             },
           },
           {
@@ -1670,7 +1670,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 151702,
+              duration: 151_702,
             },
           },
           {
@@ -1680,7 +1680,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 13100,
+              duration: 13_100,
             },
           },
           {
@@ -1689,7 +1689,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 21401,
+              duration: 21_401,
             },
           },
           {
@@ -1698,7 +1698,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 16998026,
+              duration: 16_998_026,
             },
           },
           {
@@ -1707,7 +1707,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 51601,
+              duration: 51_601,
             },
           },
         ],
@@ -1721,7 +1721,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 2418432,
+              duration: 2_418_432,
             },
             after: [
               {
@@ -1731,7 +1731,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 16500,
+                  duration: 16_500,
                 },
               },
             ],
@@ -1745,7 +1745,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 143186797,
+              duration: 143_186_797,
             },
             after: [
               {
@@ -1755,7 +1755,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 16300,
+                  duration: 16_300,
                 },
               },
             ],
@@ -1779,7 +1779,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 192170847,
+              duration: 192_170_847,
             },
             after: [
               {
@@ -1789,7 +1789,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 22801,
+                  duration: 22_801,
                 },
               },
             ],
@@ -1803,7 +1803,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 330998187,
+              duration: 330_998_187,
             },
             after: [
               {
@@ -1813,7 +1813,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 25701,
+                  duration: 25_701,
                 },
               },
             ],
@@ -1826,7 +1826,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 25900,
+              duration: 25_900,
             },
           },
           {
@@ -1835,7 +1835,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 1871025,
+              duration: 1_871_025,
             },
           },
           {
@@ -1855,7 +1855,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 10000,
+              duration: 10_000,
             },
           },
           {
@@ -1865,7 +1865,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 34064151,
+              duration: 34_064_151,
             },
           },
         ],
@@ -1884,7 +1884,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 24601,
+              duration: 24_601,
             },
           },
           {
@@ -1894,7 +1894,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 10500,
+              duration: 10_500,
             },
           },
           {
@@ -1904,7 +1904,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 143302,
+              duration: 143_302,
             },
           },
           {
@@ -1914,7 +1914,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 11700,
+              duration: 11_700,
             },
           },
           {
@@ -1923,7 +1923,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 21900,
+              duration: 21_900,
             },
           },
           {
@@ -1932,7 +1932,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 17123826,
+              duration: 17_123_826,
             },
           },
           {
@@ -1941,7 +1941,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 47300,
+              duration: 47_300,
             },
           },
         ],
@@ -1955,7 +1955,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 295704,
+              duration: 295_704,
             },
             after: [
               {
@@ -1965,7 +1965,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 10900,
+                  duration: 10_900,
                 },
               },
             ],
@@ -1979,7 +1979,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 155672666,
+              duration: 155_672_666,
             },
             after: [
               {
@@ -1989,7 +1989,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 15800,
+                  duration: 15_800,
                 },
               },
             ],
@@ -2013,7 +2013,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 183650037,
+              duration: 183_650_037,
             },
             after: [
               {
@@ -2023,7 +2023,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 49300,
+                  duration: 49_300,
                 },
               },
             ],
@@ -2037,7 +2037,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 77795033,
+              duration: 77_795_033,
             },
             after: [
               {
@@ -2047,7 +2047,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 21500,
+                  duration: 21_500,
                 },
               },
             ],
@@ -2060,7 +2060,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 27100,
+              duration: 27_100,
             },
           },
           {
@@ -2069,7 +2069,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 1760723,
+              duration: 1_760_723,
             },
           },
           {
@@ -2079,7 +2079,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 10300,
+              duration: 10_300,
             },
           },
           {
@@ -2099,7 +2099,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 34436557,
+              duration: 34_436_557,
             },
           },
         ],
@@ -2118,7 +2118,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 14201,
+              duration: 14_201,
             },
           },
           {
@@ -2138,7 +2138,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 139302,
+              duration: 139_302,
             },
           },
           {
@@ -2148,7 +2148,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 12700,
+              duration: 12_700,
             },
           },
           {
@@ -2157,7 +2157,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 18700,
+              duration: 18_700,
             },
           },
           {
@@ -2166,7 +2166,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 18996452,
+              duration: 18_996_452,
             },
           },
           {
@@ -2175,7 +2175,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 48500,
+              duration: 48_500,
             },
           },
         ],
@@ -2189,7 +2189,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 270903,
+              duration: 270_903,
             },
             after: [
               {
@@ -2199,7 +2199,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 10500,
+                  duration: 10_500,
                 },
               },
             ],
@@ -2213,7 +2213,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 148436770,
+              duration: 148_436_770,
             },
             after: [
               {
@@ -2223,7 +2223,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 14600,
+                  duration: 14_600,
                 },
               },
             ],
@@ -2247,7 +2247,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 707469291,
+              duration: 707_469_291,
             },
             after: [
               {
@@ -2257,7 +2257,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 14900,
+                  duration: 14_900,
                 },
               },
             ],
@@ -2271,7 +2271,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 10576397684,
+              duration: 10_576_397_684,
             },
             after: [
               {
@@ -2281,7 +2281,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 26301,
+                  duration: 26_301,
                 },
               },
             ],
@@ -2295,7 +2295,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 473351019,
+              duration: 473_351_019,
             },
             after: [
               {
@@ -2305,7 +2305,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 52500,
+                  duration: 52_500,
                 },
               },
             ],
@@ -2318,7 +2318,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 27200,
+              duration: 27_200,
             },
           },
           {
@@ -2327,7 +2327,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 5908179,
+              duration: 5_908_179,
             },
           },
           {
@@ -2337,7 +2337,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 10600,
+              duration: 10_600,
             },
           },
           {
@@ -2357,7 +2357,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 38695816,
+              duration: 38_695_816,
             },
           },
         ],
@@ -2376,7 +2376,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 14900,
+              duration: 14_900,
             },
           },
           {
@@ -2396,7 +2396,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 168203,
+              duration: 168_203,
             },
           },
           {
@@ -2406,7 +2406,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 11500,
+              duration: 11_500,
             },
           },
           {
@@ -2415,7 +2415,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 28701,
+              duration: 28_701,
             },
           },
           {
@@ -2424,7 +2424,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 19919466,
+              duration: 19_919_466,
             },
           },
           {
@@ -2433,7 +2433,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 50801,
+              duration: 50_801,
             },
           },
         ],
@@ -2447,7 +2447,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 275303,
+              duration: 275_303,
             },
             after: [
               {
@@ -2457,7 +2457,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 11700,
+                  duration: 11_700,
                 },
               },
             ],
@@ -2471,7 +2471,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 129669431,
+              duration: 129_669_431,
             },
             after: [
               {
@@ -2481,7 +2481,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 15800,
+                  duration: 15_800,
                 },
               },
             ],
@@ -2505,7 +2505,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 95844779,
+              duration: 95_844_779,
             },
             after: [
               {
@@ -2515,7 +2515,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 15900,
+                  duration: 15_900,
                 },
               },
             ],
@@ -2529,7 +2529,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 125001469,
+              duration: 125_001_469,
             },
             after: [
               {
@@ -2539,7 +2539,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 15000,
+                  duration: 15_000,
                 },
               },
             ],
@@ -2553,7 +2553,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 1077273782,
+              duration: 1_077_273_782,
             },
             after: [
               {
@@ -2563,7 +2563,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 18500,
+                  duration: 18_500,
                 },
               },
             ],
@@ -2584,7 +2584,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 408813658,
+              duration: 408_813_658,
             },
             after: [
               {
@@ -2594,7 +2594,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 23200,
+                  duration: 23_200,
                 },
               },
             ],
@@ -2607,7 +2607,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 25601,
+              duration: 25_601,
             },
           },
           {
@@ -2616,7 +2616,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 6066881,
+              duration: 6_066_881,
             },
           },
           {
@@ -2646,7 +2646,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 35458974,
+              duration: 35_458_974,
             },
           },
         ],
@@ -2665,7 +2665,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 14000,
+              duration: 14_000,
             },
           },
           {
@@ -2685,7 +2685,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 152102,
+              duration: 152_102,
             },
           },
           {
@@ -2695,7 +2695,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 12700,
+              duration: 12_700,
             },
           },
           {
@@ -2704,7 +2704,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 22400,
+              duration: 22_400,
             },
           },
           {
@@ -2713,7 +2713,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 20509774,
+              duration: 20_509_774,
             },
           },
           {
@@ -2722,7 +2722,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 55401,
+              duration: 55_401,
             },
           },
         ],
@@ -2736,7 +2736,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 279704,
+              duration: 279_704,
             },
             after: [
               {
@@ -2746,7 +2746,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 12800,
+                  duration: 12_800,
                 },
               },
             ],
@@ -2760,7 +2760,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 157649605,
+              duration: 157_649_605,
             },
             after: [
               {
@@ -2770,7 +2770,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 15200,
+                  duration: 15_200,
                 },
               },
             ],
@@ -2794,7 +2794,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 30294905,
+              duration: 30_294_905,
             },
             after: [
               {
@@ -2804,7 +2804,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 15701,
+                  duration: 15_701,
                 },
               },
             ],
@@ -2818,7 +2818,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 1110632427,
+              duration: 1_110_632_427,
             },
             after: [
               {
@@ -2828,7 +2828,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 15200,
+                  duration: 15_200,
                 },
               },
             ],
@@ -2842,7 +2842,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 466310612,
+              duration: 466_310_612,
             },
             after: [
               {
@@ -2852,7 +2852,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 14500,
+                  duration: 14_500,
                 },
               },
             ],
@@ -2866,7 +2866,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 42135157,
+              duration: 42_135_157,
             },
             after: [
               {
@@ -2876,7 +2876,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 15900,
+                  duration: 15_900,
                 },
               },
             ],
@@ -2891,7 +2891,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 292028663,
+              duration: 292_028_663,
             },
             after: [
               {
@@ -2901,7 +2901,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 20400,
+                  duration: 20_400,
                 },
               },
             ],
@@ -2915,7 +2915,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 61211910,
+              duration: 61_211_910,
             },
             after: [
               {
@@ -2925,7 +2925,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 20700,
+                  duration: 20_700,
                 },
               },
             ],
@@ -2938,7 +2938,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 25001,
+              duration: 25_001,
             },
           },
           {
@@ -2947,7 +2947,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 7010993,
+              duration: 7_010_993,
             },
           },
           {
@@ -2977,7 +2977,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 34269154,
+              duration: 34_269_154,
             },
           },
         ],
@@ -3006,7 +3006,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 14400,
+              duration: 14_400,
             },
           },
           {
@@ -3026,7 +3026,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 222103,
+              duration: 222_103,
             },
           },
           {
@@ -3036,7 +3036,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 13300,
+              duration: 13_300,
             },
           },
           {
@@ -3045,7 +3045,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 21300,
+              duration: 21_300,
             },
           },
           {
@@ -3054,7 +3054,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 21965090,
+              duration: 21_965_090,
             },
           },
           {
@@ -3063,7 +3063,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 51601,
+              duration: 51_601,
             },
           },
         ],
@@ -3077,7 +3077,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 36425182,
+              duration: 36_425_182,
             },
             after: [
               {
@@ -3087,7 +3087,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 18200,
+                  duration: 18_200,
                 },
               },
             ],
@@ -3101,7 +3101,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 124319945,
+              duration: 124_319_945,
             },
             after: [
               {
@@ -3111,7 +3111,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 16401,
+                  duration: 16_401,
                 },
               },
             ],
@@ -3125,7 +3125,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 123002,
+              duration: 123_002,
             },
             after: [
               {
@@ -3135,7 +3135,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 12200,
+                  duration: 12_200,
                 },
               },
             ],
@@ -3149,7 +3149,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 53700,
+              duration: 53_700,
             },
             after: [
               {
@@ -3184,7 +3184,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 129178009,
+              duration: 129_178_009,
             },
             after: [
               {
@@ -3194,7 +3194,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 23100,
+                  duration: 23_100,
                 },
               },
             ],
@@ -3209,7 +3209,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 60495600,
+              duration: 60_495_600,
             },
             after: [
               {
@@ -3219,7 +3219,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 18400,
+                  duration: 18_400,
                 },
               },
             ],
@@ -3234,7 +3234,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 50584770,
+              duration: 50_584_770,
             },
             after: [
               {
@@ -3244,7 +3244,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 19900,
+                  duration: 19_900,
                 },
               },
             ],
@@ -3259,7 +3259,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 2200811116,
+              duration: 2_200_811_116,
             },
             after: [
               {
@@ -3269,7 +3269,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 23000,
+                  duration: 23_000,
                 },
               },
             ],
@@ -3284,7 +3284,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 119916886,
+              duration: 119_916_886,
             },
             after: [
               {
@@ -3294,7 +3294,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 28400,
+                  duration: 28_400,
                 },
               },
             ],
@@ -3309,7 +3309,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 4074054,
+              duration: 4_074_054,
             },
             after: [
               {
@@ -3319,7 +3319,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 14900,
+                  duration: 14_900,
                 },
               },
             ],
@@ -3332,7 +3332,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 26400,
+              duration: 26_400,
             },
           },
           {
@@ -3341,7 +3341,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 1424419,
+              duration: 1_424_419,
             },
           },
           {
@@ -3351,7 +3351,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 10200,
+              duration: 10_200,
             },
           },
           {
@@ -3371,7 +3371,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 40594337,
+              duration: 40_594_337,
             },
           },
         ],
@@ -3390,7 +3390,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 14501,
+              duration: 14_501,
             },
           },
           {
@@ -3410,7 +3410,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 163002,
+              duration: 163_002,
             },
           },
           {
@@ -3420,7 +3420,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 13300,
+              duration: 13_300,
             },
           },
           {
@@ -3429,7 +3429,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 21800,
+              duration: 21_800,
             },
           },
           {
@@ -3438,7 +3438,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 25822641,
+              duration: 25_822_641,
             },
           },
           {
@@ -3447,7 +3447,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 59100,
+              duration: 59_100,
             },
           },
         ],
@@ -3461,7 +3461,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 36990389,
+              duration: 36_990_389,
             },
             after: [
               {
@@ -3471,7 +3471,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 17700,
+                  duration: 17_700,
                 },
               },
             ],
@@ -3485,7 +3485,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 124431046,
+              duration: 124_431_046,
             },
             after: [
               {
@@ -3495,7 +3495,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 17400,
+                  duration: 17_400,
                 },
               },
             ],
@@ -3509,7 +3509,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 167102,
+              duration: 167_102,
             },
             after: [
               {
@@ -3533,7 +3533,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 58001,
+              duration: 58_001,
             },
             after: [
               {
@@ -3567,7 +3567,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 536245594,
+              duration: 536_245_594,
             },
             after: [
               {
@@ -3577,7 +3577,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 24200,
+                  duration: 24_200,
                 },
               },
             ],
@@ -3591,7 +3591,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 113975508,
+              duration: 113_975_508,
             },
             after: [
               {
@@ -3601,7 +3601,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 15401,
+                  duration: 15_401,
                 },
               },
             ],
@@ -3615,7 +3615,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 363692212,
+              duration: 363_692_212,
             },
             after: [
               {
@@ -3625,7 +3625,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 26300,
+                  duration: 26_300,
                 },
               },
             ],
@@ -3640,7 +3640,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 350787241,
+              duration: 350_787_241,
             },
             after: [
               {
@@ -3650,7 +3650,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 51100,
+                  duration: 51_100,
                 },
               },
             ],
@@ -3665,7 +3665,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 79575853,
+              duration: 79_575_853,
             },
             after: [
               {
@@ -3675,7 +3675,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 24700,
+                  duration: 24_700,
                 },
               },
             ],
@@ -3690,7 +3690,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 110866366,
+              duration: 110_866_366,
             },
             after: [
               {
@@ -3700,7 +3700,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 16400,
+                  duration: 16_400,
                 },
               },
             ],
@@ -3715,7 +3715,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 179556375,
+              duration: 179_556_375,
             },
             after: [
               {
@@ -3725,7 +3725,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 24600,
+                  duration: 24_600,
                 },
               },
             ],
@@ -3740,7 +3740,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 87867463,
+              duration: 87_867_463,
             },
             after: [
               {
@@ -3750,7 +3750,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 17800,
+                  duration: 17_800,
                 },
               },
             ],
@@ -3764,7 +3764,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 421459875,
+              duration: 421_459_875,
             },
             after: [
               {
@@ -3774,7 +3774,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 18501,
+                  duration: 18_501,
                 },
               },
             ],
@@ -3789,7 +3789,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 394904825,
+              duration: 394_904_825,
             },
             after: [
               {
@@ -3799,7 +3799,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 36400,
+                  duration: 36_400,
                 },
               },
             ],
@@ -3814,7 +3814,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 32936736,
+              duration: 32_936_736,
             },
             after: [
               {
@@ -3824,7 +3824,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 25400,
+                  duration: 25_400,
                 },
               },
             ],
@@ -3838,7 +3838,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 5927078,
+              duration: 5_927_078,
             },
             after: [
               {
@@ -3848,7 +3848,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 14900,
+                  duration: 14_900,
                 },
               },
             ],
@@ -3861,7 +3861,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 26301,
+              duration: 26_301,
             },
           },
           {
@@ -3870,7 +3870,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 6243883,
+              duration: 6_243_883,
             },
           },
           {
@@ -3900,7 +3900,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 35537870,
+              duration: 35_537_870,
             },
           },
         ],
@@ -3919,7 +3919,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 14400,
+              duration: 14_400,
             },
           },
           {
@@ -3939,7 +3939,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 177602,
+              duration: 177_602,
             },
           },
           {
@@ -3949,7 +3949,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 13400,
+              duration: 13_400,
             },
           },
           {
@@ -3958,7 +3958,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 22301,
+              duration: 22_301,
             },
           },
           {
@@ -3967,7 +3967,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 22543398,
+              duration: 22_543_398,
             },
           },
           {
@@ -3976,7 +3976,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 55901,
+              duration: 55_901,
             },
           },
         ],
@@ -3990,7 +3990,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 30752906,
+              duration: 30_752_906,
             },
             after: [
               {
@@ -4000,7 +4000,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 15100,
+                  duration: 15_100,
                 },
               },
             ],
@@ -4014,7 +4014,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 122291018,
+              duration: 122_291_018,
             },
             after: [
               {
@@ -4024,7 +4024,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 161102,
+                  duration: 161_102,
                 },
               },
             ],
@@ -4038,7 +4038,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 126202,
+              duration: 126_202,
             },
             after: [
               {
@@ -4062,7 +4062,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 56600,
+              duration: 56_600,
             },
             after: [
               {
@@ -4096,7 +4096,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 149005372,
+              duration: 149_005_372,
             },
             after: [
               {
@@ -4106,7 +4106,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 15601,
+                  duration: 15_601,
                 },
               },
             ],
@@ -4120,7 +4120,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 297224233,
+              duration: 297_224_233,
             },
             after: [
               {
@@ -4130,7 +4130,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 31801,
+                  duration: 31_801,
                 },
               },
             ],
@@ -4145,7 +4145,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 37152092,
+              duration: 37_152_092,
             },
             after: [
               {
@@ -4155,7 +4155,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 19000,
+                  duration: 19_000,
                 },
               },
             ],
@@ -4170,7 +4170,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 790819163,
+              duration: 790_819_163,
             },
             after: [
               {
@@ -4180,7 +4180,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 25700,
+                  duration: 25_700,
                 },
               },
             ],
@@ -4195,7 +4195,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 67902798,
+              duration: 67_902_798,
             },
             after: [
               {
@@ -4205,7 +4205,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 24000,
+                  duration: 24_000,
                 },
               },
             ],
@@ -4220,7 +4220,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 51370880,
+              duration: 51_370_880,
             },
             after: [
               {
@@ -4230,7 +4230,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 23700,
+                  duration: 23_700,
                 },
               },
             ],
@@ -4243,7 +4243,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 29601,
+              duration: 29_601,
             },
           },
           {
@@ -4252,7 +4252,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 18237741,
+              duration: 18_237_741,
             },
           },
           {
@@ -4262,7 +4262,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 36200,
+              duration: 36_200,
             },
           },
           {
@@ -4282,7 +4282,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 41202545,
+              duration: 41_202_545,
             },
           },
         ],
@@ -4403,7 +4403,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 13400,
+              duration: 13_400,
             },
           },
           {
@@ -4423,7 +4423,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 184502,
+              duration: 184_502,
             },
           },
           {
@@ -4433,7 +4433,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 28400,
+              duration: 28_400,
             },
           },
           {
@@ -4442,7 +4442,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 23201,
+              duration: 23_201,
             },
           },
           {
@@ -4451,7 +4451,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 40982243,
+              duration: 40_982_243,
             },
           },
           {
@@ -4460,7 +4460,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 55901,
+              duration: 55_901,
             },
           },
         ],
@@ -4474,7 +4474,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 175508124,
+              duration: 175_508_124,
             },
             after: [
               {
@@ -4484,7 +4484,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 59701,
+                  duration: 59_701,
                 },
               },
             ],
@@ -4498,7 +4498,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 150202,
+              duration: 150_202,
             },
             after: [
               {
@@ -4522,7 +4522,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 122022116,
+              duration: 122_022_116,
             },
             after: [
               {
@@ -4532,7 +4532,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 16300,
+                  duration: 16_300,
                 },
               },
             ],
@@ -4546,7 +4546,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 23581912,
+              duration: 23_581_912,
             },
             after: [
               {
@@ -4556,7 +4556,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 14800,
+                  duration: 14_800,
                 },
               },
             ],
@@ -4570,7 +4570,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 191512936,
+              duration: 191_512_936,
             },
             after: [
               {
@@ -4580,7 +4580,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 15800,
+                  duration: 15_800,
                 },
               },
             ],
@@ -4594,7 +4594,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 65677170,
+              duration: 65_677_170,
             },
             after: [
               {
@@ -4604,7 +4604,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 14700,
+                  duration: 14_700,
                 },
               },
             ],
@@ -4618,7 +4618,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 1034823405,
+              duration: 1_034_823_405,
             },
             after: [
               {
@@ -4628,7 +4628,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 19100,
+                  duration: 19_100,
                 },
               },
             ],
@@ -4642,7 +4642,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 91044706,
+              duration: 91_044_706,
             },
             after: [
               {
@@ -4652,7 +4652,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 18800,
+                  duration: 18_800,
                 },
               },
             ],
@@ -4666,7 +4666,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 81948385,
+              duration: 81_948_385,
             },
             after: [
               {
@@ -4676,7 +4676,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 23200,
+                  duration: 23_200,
                 },
               },
             ],
@@ -4690,7 +4690,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 272103004,
+              duration: 272_103_004,
             },
             after: [
               {
@@ -4700,7 +4700,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 23300,
+                  duration: 23_300,
                 },
               },
             ],
@@ -4714,7 +4714,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 393783315,
+              duration: 393_783_315,
             },
             after: [
               {
@@ -4724,7 +4724,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 25100,
+                  duration: 25_100,
                 },
               },
             ],
@@ -4738,7 +4738,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 137866826,
+              duration: 137_866_826,
             },
             after: [
               {
@@ -4748,7 +4748,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 114702,
+                  duration: 114_702,
                 },
               },
             ],
@@ -4770,7 +4770,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 443984180,
+              duration: 443_984_180,
             },
             after: [
               {
@@ -4780,7 +4780,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 25600,
+                  duration: 25_600,
                 },
               },
             ],
@@ -4795,7 +4795,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 101257141,
+              duration: 101_257_141,
             },
             after: [
               {
@@ -4805,7 +4805,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 17500,
+                  duration: 17_500,
                 },
               },
             ],
@@ -4820,7 +4820,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 612835216,
+              duration: 612_835_216,
             },
             after: [
               {
@@ -4830,7 +4830,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 24301,
+                  duration: 24_301,
                 },
               },
             ],
@@ -4845,7 +4845,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 4445159,
+              duration: 4_445_159,
             },
             after: [
               {
@@ -4855,7 +4855,7 @@ export const cucumberReport: CucumberFeature[] = [
                 },
                 result: {
                   status: 'passed',
-                  duration: 16701,
+                  duration: 16_701,
                 },
               },
             ],
@@ -4868,7 +4868,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 25901,
+              duration: 25_901,
             },
           },
           {
@@ -4877,7 +4877,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 11752256,
+              duration: 11_752_256,
             },
           },
           {
@@ -4887,7 +4887,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 11100,
+              duration: 11_100,
             },
           },
           {
@@ -4897,7 +4897,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 38901,
+              duration: 38_901,
             },
           },
           {
@@ -4907,7 +4907,7 @@ export const cucumberReport: CucumberFeature[] = [
             },
             result: {
               status: 'passed',
-              duration: 43553177,
+              duration: 43_553_177,
             },
           },
         ],

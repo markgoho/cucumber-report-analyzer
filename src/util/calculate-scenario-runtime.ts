@@ -1,6 +1,6 @@
 import { ScenarioElement } from '../models';
-import { calculateBaseStepsRuntime } from './calculateBaseStepsRuntime';
-import { calculateElementStepsRuntime } from './calculateElementStepsRuntime';
+import { calculateBaseStepsRuntime } from './calculate-base-steps-runtime';
+import { calculateElementStepsRuntime } from './calculate-element-steps-runtime';
 
 export const calculateScenarioRuntime = (scenario: ScenarioElement): number => {
   const { before, steps, after } = scenario;
