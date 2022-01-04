@@ -1,6 +1,6 @@
 {
   "name": "cucumber-report-analyzer",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Cucumber report analyzer",
   "main": "./dist/index.js",
   "scripts": {
